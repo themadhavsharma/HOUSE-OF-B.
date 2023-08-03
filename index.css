@@ -485,6 +485,56 @@ body {
 }
 
 
+.creatorr{
+  padding: 40px 30px;
+  text-align: center;
+}
+
+.creatorr h1{
+  font-size: 50px;
+}
+
+.creatorr img{
+  margin: ;
+  width: 20%;
+  border-radius:40%;
+}
+
+.creat-d{
+  transform: translateY(60px);
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+.details a{
+  color:white;
+  background-color: black;
+  box-shadow: 1px 1px 20px black;
+  padding: 20px 30px;
+  border-radius: 40px;
+  font-size: 14px;
+  transition: ease all .3s;
+
+}
+
+.details a:hover{
+  background-color:rgb(109, 179, 4) ;
+  box-shadow: 1px 1px 20px rgb(109, 179, 4) ;
+  color:  black;
+
+}
+.details button{
+  /* width: 340px;
+  height: 40px; */
+  border-radius: 20px ;
+  border: 0px solid white;
+
+  transform: translate(0px, 100px);
+}
+
+
+
 
 
 
